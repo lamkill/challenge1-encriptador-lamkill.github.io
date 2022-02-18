@@ -6,10 +6,10 @@
   font-display: optional;
 
   font-family: "Bebas kai";
-  src: url("/font/BebasKai.ttf");
+  src: url("font/BebasKai.ttf");
 
   font-family: "Heavitas";
-  src: url("/font/Heavitas.ttf");
+  src: url("font/Heavitas.ttf");
   /* src:url("/font/Heavitas.ttf");*/
 }
 
